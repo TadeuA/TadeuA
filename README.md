@@ -14,3 +14,5 @@ Caso queria, ficarei muito feliz ajudar você com seu projeto, ou indicar lugare
  <br/> :email: &nbsp; Você pode me encontrar em: [LinkedIn](https://linkedin.com/in/tadeuagostini)
 | 
 [E mail](mailto:tadeu01399@gmail.com)
+
+#NeverStopToLearning #EuValorizoAJornada #Delicinha
