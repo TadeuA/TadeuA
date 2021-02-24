@@ -11,8 +11,8 @@ Caso queria, ficarei muito feliz ajudar você com seu projeto, ou indicar lugare
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox, Styled Components e React hooks
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Adoro tecnologias e inovação:bulb:, gastronomia:pineapple:, jardinagem:seedling: e animas de estimação:cat::dog:
- <br/> :email: &nbsp; Você pode me encontrar em: [LinkedIn](https://linkedin.com/in/tadeuagostini)
+ <br/> :email: &nbsp; Você pode me encontrar em:  [![Linkedin Badge](https://img.shields.io/badge/-TadeuAgostini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeuagostini/)](https://www.linkedin.com/in/tgmarinho/) 
 | 
-[E mail](mailto:tadeu01399@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tadeu01399@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tadeu01399@gmail.com)](mailto:tadeu01399@gmail.com)
 
 #NeverStopToLearning #EuValorizoAJornada #Delicinha
